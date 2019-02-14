@@ -139,27 +139,37 @@ Rachel Andrews’ Grid By Example:
 [Grid by Example](https://gridbyexample.com/)
 [Common UI Patterns](https://gridbyexample.com/patterns/)
 
-::Grid Garden [Also in original syllabus at CU Boulder]:::
+::Grid Garden [Also in original syllabus at CU Boulder]::
 [Grid Garden - A game for learning CSS grid layout](http://cssgridgarden.com/)
 
 ### Theory
 15 Reasons Why a Grid-Based Approach will Help your Designs:
 [15 reasons why a grid based approach will improve your designs – Learn](https://www.canva.com/learn/grid-design/)
+
+
 ::Great examples of Grid Terminology, Theory, Applied to Web Design::
 [Layout Design: Types of Grids for Creating Professional-Looking Designs | Visual Learning Center by Visme](https://visme.co/blog/layout-design/)
+
+
 ::Thinking With Type: Grids [basic examples of grids in Design + Type]:::
 [Grid – Thinking With Type](http://thinkingwithtype.com/grid/)
 
 ### History:
 An Interview with the people who created CSS Grid:
 [The Story of CSS Grid, from Its Creators · An A List Apart Article](https://alistapart.com/article/the-story-of-css-grid-from-its-creators)
+
+
 Initial proposal for CSS Grid in 2011, by Microsoft:
 [IE10 Platform Preview and CSS Features for Adaptive Layouts – IEBlog](https://blogs.msdn.microsoft.com/ie/2011/04/14/ie10-platform-preview-and-css-features-for-adaptive-layouts/)
+
+
 [One of the above people, Jen Simmons on Art Direction for the Web]:
 [Revolutionize Your Page: Real Art Direction on the Web - Speaker Deck](https://speakerdeck.com/jensimmons/revolutionize-your-page-real-art-direction-on-the-web)
+
 Above including: grid theory:
-![](ReadMe/Screenshot%202019-02-09%2018.22.58.png)
-![](ReadMe/Screenshot%202019-02-09%2018.24.19.png)![](ReadMe/Screenshot%202019-02-09%2018.23.39.png)
+![](Screenshot%202019-02-09%2018.22.58.png)
+![](Screenshot%202019-02-09%2018.24.19.png)
+![](Screenshot%202019-02-09%2018.23.39.png)
 
 
 
