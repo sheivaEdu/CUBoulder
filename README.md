@@ -37,13 +37,13 @@ _Outline:_
 ![](Screenshot%202019-02-07%2017.46.37.png)
 [•  Apple iPhone sales by year 2007-2018 | Statista](https://www.statista.com/statistics/276306/global-apple-iphone-sales-since-fiscal-year-2007/)
 
-![](ReadMe/96321BA3-4BFF-4715-B229-672F20F0F309.png)
+![](96321BA3-4BFF-4715-B229-672F20F0F309.png)
 https://beta.techcrunch.com/wp-content/uploads/2016/11/internet_usage_2009_2016_ww.png
 
 Worldwide internet usage:
 [Internet Growth Statistics 1995 to 2018 - the Global Village Online](https://www.internetworldstats.com/emarketing.htm)
 
-![](ReadMe/Screenshot%202019-02-07%2017.47.16.png)
+![](Screenshot%202019-02-07%2017.47.16.png)
 [•  Global smartphone market share 2018 | Statista](https://www.statista.com/statistics/271496/global-market-share-held-by-smartphone-vendors-since-4th-quarter-2009/)
 
 ### Using Basic Grid
