@@ -34,7 +34,7 @@ _Outline:_
 
 
 
-![](ReadMe/Screenshot%202019-02-07%2017.46.37.png)
+![](Screenshot%202019-02-07%2017.46.37.png)
 [•  Apple iPhone sales by year 2007-2018 | Statista](https://www.statista.com/statistics/276306/global-apple-iphone-sales-since-fiscal-year-2007/)
 
 ![](ReadMe/96321BA3-4BFF-4715-B229-672F20F0F309.png)
