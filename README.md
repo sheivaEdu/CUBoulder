@@ -126,9 +126,9 @@ Worldwide internet usage:
 ```
 
 
-BONUS:
 
-## Resources:
+
+## Bonus Resources:
 
 
 ### Hands on Examples & Tutorials:
