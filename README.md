@@ -135,6 +135,10 @@ Worldwide internet usage:
 CSS Tricks Complete Guide to CSS Grids:
 [A Complete Guide to Grid | CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
+Lynda.com Advanced Grids Tutorials:
+[Lynda.com Advanced Grids Tutorial](https://www.lynda.com/CSS-tutorials/CSS-Advanced-Layouts-Grid/622088-2.html)
+
+
 Rachel Andrews’ Grid By Example:
 [Grid by Example](https://gridbyexample.com/)
 [Common UI Patterns](https://gridbyexample.com/patterns/)
